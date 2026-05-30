@@ -2,6 +2,9 @@
 Example Atari 2600 projects for a workshop I organized.
 Note that both files are meant to be run on the 2600 and wont compile in 7800basic only in batari basic.
 
+
+![Game screenshot](/screenshot.PNG)
+
 # Cool Atari2600 resources I used.
   [VS code Extension](https://github.com/chunkypixel/atari-dev-studio)
   
